@@ -1,6 +1,50 @@
 [
-  {
-    "title": "Ville cyberpunk",
-    "url": "wallpapers/ville_cyberpunk.png"
-  }
+  { "title": "Ville cyberpunk néon", "url": "https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg" },
+  { "title": "Montagnes au lever du soleil", "url": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg" },
+  { "title": "Forêt mystique brumeuse", "url": "https://images.pexels.com/photos/1423600/pexels-photo-1423600.jpeg" },
+  { "title": "Plage tropicale turquoise", "url": "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg" },
+  { "title": "Ciel étoilé profond", "url": "https://images.pexels.com/photos/1252983/pexels-photo-1252983.jpeg" },
+  { "title": "Paysage désertique minimal", "url": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg" },
+  { "title": "Cascade en forêt verte", "url": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg" },
+  { "title": "Ville futuriste blanche", "url": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg" },
+  { "title": "Mer calme azur", "url": "https://images.pexels.com/photos/1456291/pexels-photo-1456291.jpeg" },
+  { "title": "Montagnes enneigées HDR", "url": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg" },
+
+  { "title": "Forêt automnale rouge", "url": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpeg" },
+  { "title": "Coucher de soleil océan", "url": "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg" },
+  { "title": "Volcan dramatique", "url": "https://images.pexels.com/photos/240040/pexels-photo-240040.jpeg" },
+  { "title": "Ville nocturne illuminée", "url": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg" },
+  { "title": "Pont futuriste nuit", "url": "https://images.pexels.com/photos/356830/pexels-photo-356830.jpeg" },
+  { "title": "Plage sunset rose", "url": "https://images.pexels.com/photos/533923/pexels-photo-533923.jpeg" },
+  { "title": "Montagnes rocheuses vastes", "url": "https://images.pexels.com/photos/355241/pexels-photo-355241.jpeg" },
+  { "title": "Forêt brume dense", "url": "https://images.pexels.com/photos/4827/nature-forest-industry-rails.jpeg" },
+  { "title": "Ciel violet cosmique", "url": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg" },
+  { "title": "Île paradisiaque drone", "url": "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg" },
+
+  { "title": "Route solitaire désert", "url": "https://images.pexels.com/photos/210243/pexels-photo-210243.jpeg" },
+  { "title": "Lac miroir montagne", "url": "https://images.pexels.com/photos/158607/cairn-fog-mystical-background-158607.jpeg" },
+  { "title": "Ciel orageux sombre", "url": "https://images.pexels.com/photos/1114688/pexels-photo-1114688.jpeg" },
+  { "title": "Montagnes dans les nuages", "url": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg" },
+  { "title": "Forêt enneigée blanche", "url": "https://images.pexels.com/photos/688660/pexels-photo-688660.jpeg" },
+  { "title": "Plage sauvage rochers", "url": "https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg" },
+  { "title": "Ville sous la pluie", "url": "https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg" },
+  { "title": "Nuit étoilée minimal", "url": "https://images.pexels.com/photos/1274260/pexels-photo-1274260.jpeg" },
+  { "title": "Galaxy abstraite AMOLED", "url": "https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg" },
+  { "title": "Montagne silhouette noire", "url": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg" },
+
+  { "title": "Ciel orange crépuscule", "url": "https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg" },
+  { "title": "Forêt verte profonde", "url": "https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg" },
+  { "title": "Lune pleine nuit", "url": "https://images.pexels.com/photos/47367/full-moon-moon-bright-sky-47367.jpeg" },
+  { "title": "Ville futuriste sombre", "url": "https://images.pexels.com/photos/169647/pexels-photo-169647.jpeg" },
+  { "title": "Montagne minimal pastel", "url": "https://images.pexels.com/photos/355465/pexels-photo-355465.jpeg" },
+  { "title": "Océan vu du ciel", "url": "https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg" },
+  { "title": "Nuit néon rose", "url": "https://images.pexels.com/photos/2110951/pexels-photo-2110951.jpeg" },
+  { "title": "Désert dunes dorées", "url": "https://images.pexels.com/photos/71241/pexels-photo-71241.jpeg" },
+
+  { "title": "Forêt sombre AMOLED", "url": "https://images.pexels.com/photos/957024/forest-trees-dark-woods-957024.jpeg" },
+  { "title": "Galaxy bleue profonde", "url": "https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg" },
+  { "title": "Montagnes pastel dawn", "url": "https://images.pexels.com/photos/210243/pexels-photo-210243.jpeg" },
+  { "title": "Océan nuit lune", "url": "https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg" },
+  { "title": "Ville skyline sunset", "url": "https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg" },
+  { "title": "Minimal noir abstrait", "url": "https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg" }
 ]
