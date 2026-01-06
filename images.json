@@ -1,50 +1,1062 @@
-[
-  { "title": "Ville cyberpunk néon", "url": "https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg" },
-  { "title": "Montagnes au lever du soleil", "url": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg" },
-  { "title": "Forêt mystique brumeuse", "url": "https://images.pexels.com/photos/1423600/pexels-photo-1423600.jpeg" },
-  { "title": "Plage tropicale turquoise", "url": "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg" },
-  { "title": "Ciel étoilé profond", "url": "https://images.pexels.com/photos/1252983/pexels-photo-1252983.jpeg" },
-  { "title": "Paysage désertique minimal", "url": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg" },
-  { "title": "Cascade en forêt verte", "url": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg" },
-  { "title": "Ville futuriste blanche", "url": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg" },
-  { "title": "Mer calme azur", "url": "https://images.pexels.com/photos/1456291/pexels-photo-1456291.jpeg" },
-  { "title": "Montagnes enneigées HDR", "url": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg" },
-
-  { "title": "Forêt automnale rouge", "url": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpeg" },
-  { "title": "Coucher de soleil océan", "url": "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg" },
-  { "title": "Volcan dramatique", "url": "https://images.pexels.com/photos/240040/pexels-photo-240040.jpeg" },
-  { "title": "Ville nocturne illuminée", "url": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg" },
-  { "title": "Pont futuriste nuit", "url": "https://images.pexels.com/photos/356830/pexels-photo-356830.jpeg" },
-  { "title": "Plage sunset rose", "url": "https://images.pexels.com/photos/533923/pexels-photo-533923.jpeg" },
-  { "title": "Montagnes rocheuses vastes", "url": "https://images.pexels.com/photos/355241/pexels-photo-355241.jpeg" },
-  { "title": "Forêt brume dense", "url": "https://images.pexels.com/photos/4827/nature-forest-industry-rails.jpeg" },
-  { "title": "Ciel violet cosmique", "url": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg" },
-  { "title": "Île paradisiaque drone", "url": "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg" },
-
-  { "title": "Route solitaire désert", "url": "https://images.pexels.com/photos/210243/pexels-photo-210243.jpeg" },
-  { "title": "Lac miroir montagne", "url": "https://images.pexels.com/photos/158607/cairn-fog-mystical-background-158607.jpeg" },
-  { "title": "Ciel orageux sombre", "url": "https://images.pexels.com/photos/1114688/pexels-photo-1114688.jpeg" },
-  { "title": "Montagnes dans les nuages", "url": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg" },
-  { "title": "Forêt enneigée blanche", "url": "https://images.pexels.com/photos/688660/pexels-photo-688660.jpeg" },
-  { "title": "Plage sauvage rochers", "url": "https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg" },
-  { "title": "Ville sous la pluie", "url": "https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg" },
-  { "title": "Nuit étoilée minimal", "url": "https://images.pexels.com/photos/1274260/pexels-photo-1274260.jpeg" },
-  { "title": "Galaxy abstraite AMOLED", "url": "https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg" },
-  { "title": "Montagne silhouette noire", "url": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg" },
-
-  { "title": "Ciel orange crépuscule", "url": "https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg" },
-  { "title": "Forêt verte profonde", "url": "https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg" },
-  { "title": "Lune pleine nuit", "url": "https://images.pexels.com/photos/47367/full-moon-moon-bright-sky-47367.jpeg" },
-  { "title": "Ville futuriste sombre", "url": "https://images.pexels.com/photos/169647/pexels-photo-169647.jpeg" },
-  { "title": "Montagne minimal pastel", "url": "https://images.pexels.com/photos/355465/pexels-photo-355465.jpeg" },
-  { "title": "Océan vu du ciel", "url": "https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg" },
-  { "title": "Nuit néon rose", "url": "https://images.pexels.com/photos/2110951/pexels-photo-2110951.jpeg" },
-  { "title": "Désert dunes dorées", "url": "https://images.pexels.com/photos/71241/pexels-photo-71241.jpeg" },
-
-  { "title": "Forêt sombre AMOLED", "url": "https://images.pexels.com/photos/957024/forest-trees-dark-woods-957024.jpeg" },
-  { "title": "Galaxy bleue profonde", "url": "https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg" },
-  { "title": "Montagnes pastel dawn", "url": "https://images.pexels.com/photos/210243/pexels-photo-210243.jpeg" },
-  { "title": "Océan nuit lune", "url": "https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg" },
-  { "title": "Ville skyline sunset", "url": "https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg" },
-  { "title": "Minimal noir abstrait", "url": "https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg" }
-]
+{
+  "meta": {
+    "platform": "android",
+    "orientation": "portrait",
+    "target_resolution": "1080x2400",
+    "optimized_for": [
+      "AMOLED",
+      "OLED",
+      "LCD"
+    ]
+  },
+  "categories": [
+    {
+      "id": "nature",
+      "label": "Nature",
+      "wallpapers": [
+        {
+          "title": "Misty Forest Road",
+          "url": "https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Green Pine Trees",
+          "url": "https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Autumn Mountain",
+          "url": "https://images.pexels.com/photos/307008/pexels-photo-307008.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Rainforest Waterfall",
+          "url": "https://images.pexels.com/photos/775201/pexels-photo-775201.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Snowy Peaks",
+          "url": "https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Desert Sand Dunes",
+          "url": "https://images.pexels.com/photos/998653/pexels-photo-998653.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Tropical Leaves",
+          "url": "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Sunset Valley",
+          "url": "https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Dark Green Ferns",
+          "url": "https://images.pexels.com/photos/2310641/pexels-photo-2310641.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Morning Dew",
+          "url": "https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Mossy Rocks",
+          "url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Winter Forest",
+          "url": "https://images.pexels.com/photos/839462/pexels-photo-839462.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Golden Wheat Field",
+          "url": "https://images.pexels.com/photos/54204/pexels-photo-54204.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Bamboo Grove",
+          "url": "https://images.pexels.com/photos/142497/pexels-photo-142497.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Volcanic Landscape",
+          "url": "https://images.pexels.com/photos/2559941/pexels-photo-2559941.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Alpine Lake",
+          "url": "https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Canyon Walls",
+          "url": "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Blooming Cherry Blossom",
+          "url": "https://images.pexels.com/photos/2090899/pexels-photo-2090899.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "River Stones",
+          "url": "https://images.pexels.com/photos/1237119/pexels-photo-1237119.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Tall Grass Sunset",
+          "url": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Blue Ridge Mountains",
+          "url": "https://images.pexels.com/photos/618833/pexels-photo-618833.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Raindrops on Leaf",
+          "url": "https://images.pexels.com/photos/1010519/pexels-photo-1010519.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Savannah Grass",
+          "url": "https://images.pexels.com/photos/668465/pexels-photo-668465.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Lone Tree Hill",
+          "url": "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Purple Lavender Field",
+          "url": "https://images.pexels.com/photos/1166209/pexels-photo-1166209.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        }
+      ]
+    },
+    {
+      "id": "sea",
+      "label": "Sea",
+      "wallpapers": [
+        {
+          "title": "Blue Ocean Waves",
+          "url": "https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Sunset Beach",
+          "url": "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Underwater Bubbles",
+          "url": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Turquoise Water",
+          "url": "https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Rocky Coastline",
+          "url": "https://images.pexels.com/photos/1655166/pexels-photo-1655166.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Deep Blue Sea",
+          "url": "https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Aerial Beach View",
+          "url": "https://images.pexels.com/photos/1559699/pexels-photo-1559699.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Stormy Ocean",
+          "url": "https://images.pexels.com/photos/1295138/pexels-photo-1295138.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Calm Horizon",
+          "url": "https://images.pexels.com/photos/635279/pexels-photo-635279.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Sea Foam Texture",
+          "url": "https://images.pexels.com/photos/2744186/pexels-photo-2744186.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Tropical Island Shore",
+          "url": "https://images.pexels.com/photos/1456291/pexels-photo-1456291.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Dark Sea Night",
+          "url": "https://images.pexels.com/photos/269583/pexels-photo-269583.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Clear Water Ripples",
+          "url": "https://images.pexels.com/photos/2822627/pexels-photo-2822627.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Lighthouse Coast",
+          "url": "https://images.pexels.com/photos/561463/pexels-photo-561463.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Jellyfish Blue",
+          "url": "https://images.pexels.com/photos/1894350/pexels-photo-1894350.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Pebble Beach",
+          "url": "https://images.pexels.com/photos/1575857/pexels-photo-1575857.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Sunset Reflection",
+          "url": "https://images.pexels.com/photos/39003/scotland-cahness-wrath-cape-wrath-39003.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Crashing Wave",
+          "url": "https://images.pexels.com/photos/1912836/pexels-photo-1912836.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Coral Reef Colors",
+          "url": "https://images.pexels.com/photos/3404278/pexels-photo-3404278.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Sea Cliff",
+          "url": "https://images.pexels.com/photos/33545/sunrise-phu-quoc-island-ocean.jpg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "White Sand",
+          "url": "https://images.pexels.com/photos/386009/pexels-photo-386009.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Sea Spray",
+          "url": "https://images.pexels.com/photos/2086361/pexels-photo-2086361.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Moody Ocean",
+          "url": "https://images.pexels.com/photos/1703310/pexels-photo-1703310.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Pier at Dusk",
+          "url": "https://images.pexels.com/photos/1482803/pexels-photo-1482803.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Teal Waters",
+          "url": "https://images.pexels.com/photos/1269025/pexels-photo-1269025.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "label": "Space",
+      "wallpapers": [
+        {
+          "title": "Starry Night Sky",
+          "url": "https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Purple Nebula",
+          "url": "https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Full Moon Glow",
+          "url": "https://images.pexels.com/photos/47367/full-moon-moon-bright-sky-47367.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Milky Way Galaxy",
+          "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Rocket Launch",
+          "url": "https://images.pexels.com/photos/586056/pexels-photo-586056.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Deep Space Void",
+          "url": "https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Astronaut Suit",
+          "url": "https://images.pexels.com/photos/355938/pexels-photo-355938.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Blue Galaxy",
+          "url": "https://images.pexels.com/photos/2034892/pexels-photo-2034892.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Eclipse",
+          "url": "https://images.pexels.com/photos/1249525/pexels-photo-1249525.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Northern Lights",
+          "url": "https://images.pexels.com/photos/1938348/pexels-photo-1938348.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Red Planet",
+          "url": "https://images.pexels.com/photos/73910/mars-mars-rover-space-travel-robot-73910.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Star Trails",
+          "url": "https://images.pexels.com/photos/2156/sky-space-dark-galaxy.jpg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Cosmic Dust",
+          "url": "https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Moon Crater",
+          "url": "https://images.pexels.com/photos/23795/pexels-photo.jpg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Aurora Borealis",
+          "url": "https://images.pexels.com/photos/625215/pexels-photo-625215.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Falling Meteor",
+          "url": "https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Blue Space Clouds",
+          "url": "https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Sun Flare",
+          "url": "https://images.pexels.com/photos/360912/pexels-photo-360912.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Dark Starfield",
+          "url": "https://images.pexels.com/photos/1341279/pexels-photo-1341279.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Pink Cosmos",
+          "url": "https://images.pexels.com/photos/2098427/pexels-photo-2098427.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Spiral Galaxy",
+          "url": "https://images.pexels.com/photos/2694037/pexels-photo-2694037.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Deep Space Blue",
+          "url": "https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Mountain Stars",
+          "url": "https://images.pexels.com/photos/2873671/pexels-photo-2873671.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Satellite View",
+          "url": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Dark Matter",
+          "url": "https://images.pexels.com/photos/1567069/pexels-photo-1567069.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        }
+      ]
+    },
+    {
+      "id": "city",
+      "label": "City",
+      "wallpapers": [
+        {
+          "title": "New York Streets",
+          "url": "https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Tokyo Night",
+          "url": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Skyscrapers High",
+          "url": "https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Golden Gate Fog",
+          "url": "https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Urban Architecture",
+          "url": "https://images.pexels.com/photos/262367/pexels-photo-262367.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "City Lights Bokeh",
+          "url": "https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "London Bridge",
+          "url": "https://images.pexels.com/photos/726484/pexels-photo-726484.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Night Traffic",
+          "url": "https://images.pexels.com/photos/169647/pexels-photo-169647.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Concrete Jungle",
+          "url": "https://images.pexels.com/photos/165537/pexels-photo-165537.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Wet Pavement",
+          "url": "https://images.pexels.com/photos/2422588/pexels-photo-2422588.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Glass Facade",
+          "url": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Sunset Cityscape",
+          "url": "https://images.pexels.com/photos/374870/pexels-photo-374870.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Paris Eiffel",
+          "url": "https://images.pexels.com/photos/161815/eiffel-tower-paris-sunset-tower-161815.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Hong Kong Night",
+          "url": "https://images.pexels.com/photos/1435075/pexels-photo-1435075.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Street Lamp Fog",
+          "url": "https://images.pexels.com/photos/175568/pexels-photo-175568.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Subway Station",
+          "url": "https://images.pexels.com/photos/2459/stairs-subway-underground.jpg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Chicago River",
+          "url": "https://images.pexels.com/photos/1057858/pexels-photo-1057858.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Building Pattern",
+          "url": "https://images.pexels.com/photos/258510/pexels-photo-258510.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Downtown Drone",
+          "url": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Rainy Window City",
+          "url": "https://images.pexels.com/photos/316466/pexels-photo-316466.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Industrial View",
+          "url": "https://images.pexels.com/photos/210307/pexels-photo-210307.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Bridge Cables",
+          "url": "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "City Sunrise",
+          "url": "https://images.pexels.com/photos/533923/pexels-photo-533923.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Old Town Street",
+          "url": "https://images.pexels.com/photos/358220/pexels-photo-358220.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Modern Skyline",
+          "url": "https://images.pexels.com/photos/363905/pexels-photo-363905.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk",
+      "label": "Cyberpunk",
+      "wallpapers": [
+        {
+          "title": "Neon Street Red",
+          "url": "https://images.pexels.com/photos/2418664/pexels-photo-2418664.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Blue Pink Glow",
+          "url": "https://images.pexels.com/photos/2603464/pexels-photo-2603464.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Cyber Alley",
+          "url": "https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Futuristic Mask",
+          "url": "https://images.pexels.com/photos/2832382/pexels-photo-2832382.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Rainy Neon",
+          "url": "https://images.pexels.com/photos/2085998/pexels-photo-2085998.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Japanese Neon Sign",
+          "url": "https://images.pexels.com/photos/2385210/pexels-photo-2385210.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Purple Grid",
+          "url": "https://images.pexels.com/photos/3172740/pexels-photo-3172740.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Cyber Noir",
+          "url": "https://images.pexels.com/photos/3052361/pexels-photo-3052361.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Laser Lights",
+          "url": "https://images.pexels.com/photos/3222449/pexels-photo-3222449.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Hacker Terminal",
+          "url": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Night Arcade",
+          "url": "https://images.pexels.com/photos/2873993/pexels-photo-2873993.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Vaporwave City",
+          "url": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Neon Smoke",
+          "url": "https://images.pexels.com/photos/2397645/pexels-photo-2397645.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Digital Rain",
+          "url": "https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Glowing Triangle",
+          "url": "https://images.pexels.com/photos/3683569/pexels-photo-3683569.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Neon Silhouette",
+          "url": "https://images.pexels.com/photos/2471235/pexels-photo-2471235.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Wet Neon Road",
+          "url": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Retro Tech",
+          "url": "https://images.pexels.com/photos/3429786/pexels-photo-3429786.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Cyber Corridor",
+          "url": "https://images.pexels.com/photos/256297/pexels-photo-256297.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Neon Reflection",
+          "url": "https://images.pexels.com/photos/1544372/pexels-photo-1544372.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Glitch Art",
+          "url": "https://images.pexels.com/photos/1670783/pexels-photo-1670783.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Synthwave Sun",
+          "url": "https://images.pexels.com/photos/2014775/pexels-photo-2014775.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Neon Blue Room",
+          "url": "https://images.pexels.com/photos/1585972/pexels-photo-1585972.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Cyber Car",
+          "url": "https://images.pexels.com/photos/337909/pexels-photo-337909.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Dark Future",
+          "url": "https://images.pexels.com/photos/1102913/pexels-photo-1102913.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        }
+      ]
+    },
+    {
+      "id": "minimal",
+      "label": "Minimal",
+      "wallpapers": [
+        {
+          "title": "Soft Pink Gradient",
+          "url": "https://images.pexels.com/photos/2471234/pexels-photo-2471234.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "White Wall Texture",
+          "url": "https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Single Leaf",
+          "url": "https://images.pexels.com/photos/1353351/pexels-photo-1353351.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Blue Sky Pure",
+          "url": "https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Beige Sand",
+          "url": "https://images.pexels.com/photos/2096579/pexels-photo-2096579.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Concrete Grey",
+          "url": "https://images.pexels.com/photos/243722/pexels-photo-243722.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Geometric Stairs",
+          "url": "https://images.pexels.com/photos/2432299/pexels-photo-2432299.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Pastel Clouds",
+          "url": "https://images.pexels.com/photos/691034/pexels-photo-691034.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Orange Wall",
+          "url": "https://images.pexels.com/photos/2582738/pexels-photo-2582738.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Lone Cactus",
+          "url": "https://images.pexels.com/photos/1055271/pexels-photo-1055271.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Black Fade",
+          "url": "https://images.pexels.com/photos/1646870/pexels-photo-1646870.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Minimal Architecture",
+          "url": "https://images.pexels.com/photos/3648177/pexels-photo-3648177.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Clean Lines",
+          "url": "https://images.pexels.com/photos/312061/pexels-photo-312061.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Yellow Pattern",
+          "url": "https://images.pexels.com/photos/1252984/pexels-photo-1252984.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Paper Texture",
+          "url": "https://images.pexels.com/photos/1367035/pexels-photo-1367035.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Minimal Mountain",
+          "url": "https://images.pexels.com/photos/1287145/pexels-photo-1287145.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Single Bulb",
+          "url": "https://images.pexels.com/photos/1125265/pexels-photo-1125265.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Soft Shadow",
+          "url": "https://images.pexels.com/photos/356345/pexels-photo-356345.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Pure White",
+          "url": "https://images.pexels.com/photos/32237/pexels-photo.jpg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Green Plant Detail",
+          "url": "https://images.pexels.com/photos/3663040/pexels-photo-3663040.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Blue Tiles",
+          "url": "https://images.pexels.com/photos/1235694/pexels-photo-1235694.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Pink Wall",
+          "url": "https://images.pexels.com/photos/2040626/pexels-photo-2040626.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Minimal Desk",
+          "url": "https://images.pexels.com/photos/1036808/pexels-photo-1036808.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Grey Stone",
+          "url": "https://images.pexels.com/photos/129733/pexels-photo-129733.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Simple Horizon",
+          "url": "https://images.pexels.com/photos/3204956/pexels-photo-3204956.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        }
+      ]
+    },
+    {
+      "id": "amoled",
+      "label": "AMOLED",
+      "wallpapers": [
+        {
+          "title": "Pitch Black Texture",
+          "url": "https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Dark Smoke",
+          "url": "https://images.pexels.com/photos/691569/pexels-photo-691569.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Black Cube",
+          "url": "https://images.pexels.com/photos/3781750/pexels-photo-3781750.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Red Light Dark",
+          "url": "https://images.pexels.com/photos/3403294/pexels-photo-3403294.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Neon Line",
+          "url": "https://images.pexels.com/photos/3052028/pexels-photo-3052028.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Dark Feather",
+          "url": "https://images.pexels.com/photos/2090703/pexels-photo-2090703.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "OLED Water",
+          "url": "https://images.pexels.com/photos/1098661/pexels-photo-1098661.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Black Abstract",
+          "url": "https://images.pexels.com/photos/1484759/pexels-photo-1484759.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Night Mountain Outline",
+          "url": "https://images.pexels.com/photos/1367192/pexels-photo-1367192.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Dark Sparkler",
+          "url": "https://images.pexels.com/photos/1581452/pexels-photo-1581452.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Shadow Palm",
+          "url": "https://images.pexels.com/photos/1020016/pexels-photo-1020016.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Void Cat",
+          "url": "https://images.pexels.com/photos/2071873/pexels-photo-2071873.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Charcoal Texture",
+          "url": "https://images.pexels.com/photos/1571166/pexels-photo-1571166.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "One Light Bulb",
+          "url": "https://images.pexels.com/photos/267682/pexels-photo-267682.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Dark Metal",
+          "url": "https://images.pexels.com/photos/1054366/pexels-photo-1054366.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Eclipse Ring",
+          "url": "https://images.pexels.com/photos/1274536/pexels-photo-1274536.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Black Sand",
+          "url": "https://images.pexels.com/photos/1544941/pexels-photo-1544941.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Dark Galaxy",
+          "url": "https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Rain on Black Glass",
+          "url": "https://images.pexels.com/photos/2680270/pexels-photo-2680270.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Low Poly Black",
+          "url": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Dark Tunnel",
+          "url": "https://images.pexels.com/photos/2196602/pexels-photo-2196602.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Moon Silhouette",
+          "url": "https://images.pexels.com/photos/2059300/pexels-photo-2059300.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Dark Wood",
+          "url": "https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Minimal Dark",
+          "url": "https://images.pexels.com/photos/1585848/pexels-photo-1585848.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Single Candle",
+          "url": "https://images.pexels.com/photos/2088019/pexels-photo-2088019.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        }
+      ]
+    },
+    {
+      "id": "abstract",
+      "label": "Abstract",
+      "wallpapers": [
+        {
+          "title": "Oil Paint Swirl",
+          "url": "https://images.pexels.com/photos/1616403/pexels-photo-1616403.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Colorful Smoke",
+          "url": "https://images.pexels.com/photos/604684/pexels-photo-604684.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Geometrical Shapes",
+          "url": "https://images.pexels.com/photos/2156881/pexels-photo-2156881.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Fluid Art Blue",
+          "url": "https://images.pexels.com/photos/3588231/pexels-photo-3588231.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Red Abstract",
+          "url": "https://images.pexels.com/photos/2457183/pexels-photo-2457183.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Glass Prisms",
+          "url": "https://images.pexels.com/photos/1931379/pexels-photo-1931379.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Light Leaks",
+          "url": "https://images.pexels.com/photos/2529187/pexels-photo-2529187.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Paint Splash",
+          "url": "https://images.pexels.com/photos/1544880/pexels-photo-1544880.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Golden Foil",
+          "url": "https://images.pexels.com/photos/3312664/pexels-photo-3312664.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Blue Ink Water",
+          "url": "https://images.pexels.com/photos/1916821/pexels-photo-1916821.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Triangular Mesh",
+          "url": "https://images.pexels.com/photos/325288/pexels-photo-325288.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Bokeh Balls",
+          "url": "https://images.pexels.com/photos/220067/pexels-photo-220067.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Digital Wave",
+          "url": "https://images.pexels.com/photos/3280211/pexels-photo-3280211.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Paper Layers",
+          "url": "https://images.pexels.com/photos/2129796/pexels-photo-2129796.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Glitter Texture",
+          "url": "https://images.pexels.com/photos/1036396/pexels-photo-1036396.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Macro Soap Bubble",
+          "url": "https://images.pexels.com/photos/3222255/pexels-photo-3222255.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Abstract Rust",
+          "url": "https://images.pexels.com/photos/1036856/pexels-photo-1036856.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Green Fractal",
+          "url": "https://images.pexels.com/photos/2824173/pexels-photo-2824173.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Purple Liquid",
+          "url": "https://images.pexels.com/photos/2832382/pexels-photo-2832382.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Neon Grid",
+          "url": "https://images.pexels.com/photos/2444933/pexels-photo-2444933.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Blurred Lights",
+          "url": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        },
+        {
+          "title": "Holographic Foil",
+          "url": "https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Geometric 3D",
+          "url": "https://images.pexels.com/photos/3048527/pexels-photo-3048527.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Silk Texture",
+          "url": "https://images.pexels.com/photos/990824/pexels-photo-990824.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": false
+        },
+        {
+          "title": "Dark Fluid",
+          "url": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?w=1080&h=2400&fit=crop",
+          "amoled": true
+        }
+      ]
+    }
+  ]
+}
